@@ -1,0 +1,31 @@
+
+
+
+
+
+
+
+Lokesh Raju, male, 50 year(s), +917892535393,	09/12/2024
+PRESCRIPTION
+	Medications	Dose	Frequency	Remarks
+1	SOLIQUA INJ (injection)		0-0-10	10 dose in the night. 8 :00 PM ( 10 UNITS)
+
+2	Daplo-S 10/100 Tablet (tablet) Dapagliflozin (10mg) + Sitagliptin (100mg)		1-0-0
+After Meal	
+after breakfast.
+3	PPG-M 0.3/500 (tablet)		0-1-1
+With Meal	Twice a day, with lunch and with dinner.
+
+4	Sartel AM Tablet (tablet) Telmisartan (40mg) + Amlodipine (5mg)		
+1-0-0	in the morning. 9 AM FIXED TIME
+5	SUPRADYN TABLET (tablet)		0-1-0
+After Meal	after lunch.
+
+6	Ecosprin-AV 75 Capsule
+(capsule)
+Atorvastatin (10mg) + Aspirin (75mg)	
+capsule	
+0-0-1
+After Meal	
+Take capsule - after dinner.
+
